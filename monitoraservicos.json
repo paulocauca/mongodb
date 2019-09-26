@@ -1,0 +1,2265 @@
+/* 1 */
+{
+    "_id" : ObjectId("5d8ce95c8efa15b6d2fbff8f"),
+    "instancia" : "onl1-co",
+    "servico" : "disk_mgmt_monitor",
+    "uptime" : 64,
+    "diahora" : "64d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5d8ce95d8efa15b6d2fbff93"),
+    "instancia" : "onl1-co",
+    "servico" : "task_manager",
+    "diahora" : "64d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 64
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5d8ce95f8efa15b6d2fbff9d"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_audit_server",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "64d 20h"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5d8ce95f8efa15b6d2fbffa1"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_dpm_server",
+    "status" : "UP",
+    "diahora" : "64d 20h",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5d8ce9608efa15b6d2fbffa5"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_event_mgr",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "64d 20h"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5d8ce9618efa15b6d2fbffaa"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_evnmon_server",
+    "diahora" : "64d 20h",
+    "uptime" : 64,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5d8ce9618efa15b6d2fbffae"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_filreg_inquire_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "64d 20h",
+    "uptime" : 64
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5d8ce9628efa15b6d2fbffbb"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_mtransfer_server",
+    "diahora" : "29d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 29,
+    "status" : "UP"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5d8ce9638efa15b6d2fbffc0"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_stats_server",
+    "uptime" : 64,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "64d 20h"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5d8ce9638efa15b6d2fbffc4"),
+    "instancia" : "onl1-co",
+    "servico" : "dcs_status_serv",
+    "uptime" : 64,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "64d 20h"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5d8ce9648efa15b6d2fbffcb"),
+    "instancia" : "onl1-co",
+    "servico" : "drd_server",
+    "uptime" : 64,
+    "status" : "UP",
+    "diahora" : "64d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5d8ce9658efa15b6d2fbffcf"),
+    "instancia" : "onl1-co",
+    "servico" : "eal_converse_server",
+    "diahora" : "64d 20h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 64
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5d8ce9668efa15b6d2fbffd4"),
+    "instancia" : "onl1-co",
+    "servico" : "eal_server",
+    "diahora" : "64d 20h",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5d8ce9668efa15b6d2fbffd8"),
+    "instancia" : "onl1-co",
+    "servico" : "eps_server",
+    "uptime" : 64,
+    "diahora" : "64d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5d8ce9678efa15b6d2fbffdc"),
+    "instancia" : "onl1-co",
+    "servico" : "fws_server.py",
+    "diahora" : "64d 20h",
+    "status" : "UP",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5d8ce9688efa15b6d2fbffe0"),
+    "instancia" : "onl1-co",
+    "servico" : "res_server",
+    "status" : "UP",
+    "uptime" : 64,
+    "diahora" : "64d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5d8ce9688efa15b6d2fbffe4"),
+    "instancia" : "onl1-co",
+    "servico" : "seq_file_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 64,
+    "diahora" : "64d 20h"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5d8ce9698efa15b6d2fbffe8"),
+    "instancia" : "onl1-co",
+    "servico" : "soap_rpc_server",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "64d 20h",
+    "status" : "UP"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5d8ce96a8efa15b6d2fbffef"),
+    "instancia" : "onl1-co",
+    "servico" : "uio_file_serv",
+    "uptime" : 64,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "64d 20h",
+    "status" : "UP"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5d8ce96b8efa15b6d2fbfff3"),
+    "instancia" : "onl1-co",
+    "servico" : "uio_maint_log_srv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 64,
+    "diahora" : "64d 20h",
+    "status" : "UP"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5d8ce9768efa15b6d2fc0004"),
+    "instancia" : "onl1-rjba",
+    "servico" : "disk_mgmt_monitor",
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 47
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5d8ce9778efa15b6d2fc0008"),
+    "instancia" : "onl1-rjba",
+    "servico" : "task_manager",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 47,
+    "status" : "UP",
+    "diahora" : "47d 20h"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5d8ce9798efa15b6d2fc0012"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_audit_server",
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 24 */
+{
+    "_id" : ObjectId("5d8ce97a8efa15b6d2fc0016"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_dpm_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "47d 20h",
+    "uptime" : 47
+}
+
+/* 25 */
+{
+    "_id" : ObjectId("5d8ce97a8efa15b6d2fc001b"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_event_mgr",
+    "diahora" : "47d 20h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 47
+}
+
+/* 26 */
+{
+    "_id" : ObjectId("5d8ce97b8efa15b6d2fc001f"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_evnmon_server",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 47
+}
+
+/* 27 */
+{
+    "_id" : ObjectId("5d8ce97c8efa15b6d2fc0023"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_filreg_inquire_server",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 28 */
+{
+    "_id" : ObjectId("5d8ce97c8efa15b6d2fc0027"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_mtransfer_server",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 29 */
+{
+    "_id" : ObjectId("5d8ce97d8efa15b6d2fc002d"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_stats_server",
+    "uptime" : 47,
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 30 */
+{
+    "_id" : ObjectId("5d8ce97e8efa15b6d2fc0031"),
+    "instancia" : "onl1-rjba",
+    "servico" : "dcs_status_serv",
+    "uptime" : 47,
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 31 */
+{
+    "_id" : ObjectId("5d8ce97f8efa15b6d2fc0038"),
+    "instancia" : "onl1-rjba",
+    "servico" : "drd_server",
+    "status" : "UP",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "47d 20h"
+}
+
+/* 32 */
+{
+    "_id" : ObjectId("5d8ce9808efa15b6d2fc003c"),
+    "instancia" : "onl1-rjba",
+    "servico" : "eal_converse_server",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 33 */
+{
+    "_id" : ObjectId("5d8ce9808efa15b6d2fc0040"),
+    "instancia" : "onl1-rjba",
+    "servico" : "eal_server",
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 47
+}
+
+/* 34 */
+{
+    "_id" : ObjectId("5d8ce9818efa15b6d2fc0045"),
+    "instancia" : "onl1-rjba",
+    "servico" : "eps_server",
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 35 */
+{
+    "_id" : ObjectId("5d8ce9828efa15b6d2fc004a"),
+    "instancia" : "onl1-rjba",
+    "servico" : "fws_server.py",
+    "status" : "UP",
+    "diahora" : "47d 20h",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 36 */
+{
+    "_id" : ObjectId("5d8ce9828efa15b6d2fc004e"),
+    "instancia" : "onl1-rjba",
+    "servico" : "res_server",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "47d 20h"
+}
+
+/* 37 */
+{
+    "_id" : ObjectId("5d8ce9838efa15b6d2fc0052"),
+    "instancia" : "onl1-rjba",
+    "servico" : "seq_file_server",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 47,
+    "status" : "UP"
+}
+
+/* 38 */
+{
+    "_id" : ObjectId("5d8ce9838efa15b6d2fc0056"),
+    "instancia" : "onl1-rjba",
+    "servico" : "soap_rpc_server",
+    "uptime" : 47,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "47d 20h",
+    "status" : "UP"
+}
+
+/* 39 */
+{
+    "_id" : ObjectId("5d8ce9858efa15b6d2fc005e"),
+    "instancia" : "onl1-rjba",
+    "servico" : "uio_file_serv",
+    "status" : "UP",
+    "uptime" : 47,
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 40 */
+{
+    "_id" : ObjectId("5d8ce9858efa15b6d2fc0062"),
+    "instancia" : "onl1-rjba",
+    "servico" : "uio_maint_log_srv",
+    "diahora" : "47d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 47
+}
+
+/* 41 */
+{
+    "_id" : ObjectId("5d8ce9918efa15b6d2fc0068"),
+    "instancia" : "onl2-prnm",
+    "servico" : "disk_mgmt_monitor",
+    "diahora" : "43d 22h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 43,
+    "status" : "UP"
+}
+
+/* 42 */
+{
+    "_id" : ObjectId("5d8ce9928efa15b6d2fc006c"),
+    "instancia" : "onl2-prnm",
+    "servico" : "task_manager",
+    "status" : "UP",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h"
+}
+
+/* 43 */
+{
+    "_id" : ObjectId("5d8ce9928efa15b6d2fc0070"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_tape_rpc_serv",
+    "status" : "UP",
+    "diahora" : "43d 22h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 43
+}
+
+/* 44 */
+{
+    "_id" : ObjectId("5d8ce9948efa15b6d2fc007a"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_audit_server",
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 45 */
+{
+    "_id" : ObjectId("5d8ce9958efa15b6d2fc007e"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_dpm_server",
+    "uptime" : 43,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h"
+}
+
+/* 46 */
+{
+    "_id" : ObjectId("5d8ce9968efa15b6d2fc0085"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_event_mgr",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h",
+    "uptime" : 43,
+    "status" : "UP"
+}
+
+/* 47 */
+{
+    "_id" : ObjectId("5d8ce9968efa15b6d2fc0089"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_evnmon_server",
+    "diahora" : "43d 22h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 43,
+    "status" : "UP"
+}
+
+/* 48 */
+{
+    "_id" : ObjectId("5d8ce9978efa15b6d2fc008d"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_filreg_inquire_server",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h",
+    "status" : "UP"
+}
+
+/* 49 */
+{
+    "_id" : ObjectId("5d8ce9988efa15b6d2fc0091"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_mtransfer_server",
+    "uptime" : 43,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h"
+}
+
+/* 50 */
+{
+    "_id" : ObjectId("5d8ce9988efa15b6d2fc0096"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_stats_server",
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 51 */
+{
+    "_id" : ObjectId("5d8ce9998efa15b6d2fc009a"),
+    "instancia" : "onl2-prnm",
+    "servico" : "dcs_status_serv",
+    "uptime" : 43,
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 52 */
+{
+    "_id" : ObjectId("5d8ce99a8efa15b6d2fc00a1"),
+    "instancia" : "onl2-prnm",
+    "servico" : "drd_server",
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 53 */
+{
+    "_id" : ObjectId("5d8ce99b8efa15b6d2fc00a5"),
+    "instancia" : "onl2-prnm",
+    "servico" : "eal_converse_server",
+    "status" : "UP",
+    "diahora" : "43d 22h",
+    "uptime" : 43,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 54 */
+{
+    "_id" : ObjectId("5d8ce99b8efa15b6d2fc00a9"),
+    "instancia" : "onl2-prnm",
+    "servico" : "eal_server",
+    "diahora" : "43d 22h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 43,
+    "status" : "UP"
+}
+
+/* 55 */
+{
+    "_id" : ObjectId("5d8ce99c8efa15b6d2fc00ad"),
+    "instancia" : "onl2-prnm",
+    "servico" : "eps_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "uptime" : 43
+}
+
+/* 56 */
+{
+    "_id" : ObjectId("5d8ce99d8efa15b6d2fc00b1"),
+    "instancia" : "onl2-prnm",
+    "servico" : "fws_server.py",
+    "uptime" : 37,
+    "diahora" : "37d 3h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 57 */
+{
+    "_id" : ObjectId("5d8ce99d8efa15b6d2fc00b5"),
+    "instancia" : "onl2-prnm",
+    "servico" : "res_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h",
+    "uptime" : 43
+}
+
+/* 58 */
+{
+    "_id" : ObjectId("5d8ce99e8efa15b6d2fc00bb"),
+    "instancia" : "onl2-prnm",
+    "servico" : "seq_file_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 43,
+    "diahora" : "43d 22h",
+    "status" : "UP"
+}
+
+/* 59 */
+{
+    "_id" : ObjectId("5d8ce99f8efa15b6d2fc00bf"),
+    "instancia" : "onl2-prnm",
+    "servico" : "soap_rpc_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "37d 3h",
+    "uptime" : 37
+}
+
+/* 60 */
+{
+    "_id" : ObjectId("5d8ce9a08efa15b6d2fc00c7"),
+    "instancia" : "onl2-prnm",
+    "servico" : "uio_file_serv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "43d 22h",
+    "status" : "UP",
+    "uptime" : 43
+}
+
+/* 61 */
+{
+    "_id" : ObjectId("5d8ce9a18efa15b6d2fc00cb"),
+    "instancia" : "onl2-prnm",
+    "servico" : "uio_maint_log_srv",
+    "uptime" : 43,
+    "diahora" : "43d 22h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 62 */
+{
+    "_id" : ObjectId("5d8ce9ac8efa15b6d2fc00d2"),
+    "instancia" : "onl2-sp",
+    "servico" : "disk_mgmt_monitor",
+    "uptime" : 68,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "68d 18h",
+    "status" : "UP"
+}
+
+/* 63 */
+{
+    "_id" : ObjectId("5d8ce9ad8efa15b6d2fc00d6"),
+    "instancia" : "onl2-sp",
+    "servico" : "task_manager",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "diahora" : "68d 18h",
+    "status" : "UP"
+}
+
+/* 64 */
+{
+    "_id" : ObjectId("5d8ce9ad8efa15b6d2fc00da"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_tape_rpc_serv",
+    "uptime" : 68,
+    "diahora" : "68d 18h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 65 */
+{
+    "_id" : ObjectId("5d8ce9af8efa15b6d2fc00e4"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_audit_server",
+    "diahora" : "68d 18h",
+    "uptime" : 68,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 66 */
+{
+    "_id" : ObjectId("5d8ce9b08efa15b6d2fc00f0"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_dpm_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "status" : "UP",
+    "diahora" : "68d 18h"
+}
+
+/* 67 */
+{
+    "_id" : ObjectId("5d8ce9b18efa15b6d2fc00f4"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_event_mgr",
+    "uptime" : 68,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "68d 18h"
+}
+
+/* 68 */
+{
+    "_id" : ObjectId("5d8ce9b18efa15b6d2fc00fa"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_evnmon_server",
+    "diahora" : "68d 18h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "status" : "UP"
+}
+
+/* 69 */
+{
+    "_id" : ObjectId("5d8ce9b28efa15b6d2fc00fe"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_filreg_inquire_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "diahora" : "68d 18h"
+}
+
+/* 70 */
+{
+    "_id" : ObjectId("5d8ce9b38efa15b6d2fc0102"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_mtransfer_server",
+    "diahora" : "68d 18h",
+    "uptime" : 68,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 71 */
+{
+    "_id" : ObjectId("5d8ce9b38efa15b6d2fc0106"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_stats_server",
+    "diahora" : "68d 18h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 68
+}
+
+/* 72 */
+{
+    "_id" : ObjectId("5d8ce9b48efa15b6d2fc010b"),
+    "instancia" : "onl2-sp",
+    "servico" : "dcs_status_serv",
+    "uptime" : 68,
+    "diahora" : "68d 18h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 73 */
+{
+    "_id" : ObjectId("5d8ce9b58efa15b6d2fc0112"),
+    "instancia" : "onl2-sp",
+    "servico" : "drd_server",
+    "uptime" : 68,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "68d 18h"
+}
+
+/* 74 */
+{
+    "_id" : ObjectId("5d8ce9b68efa15b6d2fc0117"),
+    "instancia" : "onl2-sp",
+    "servico" : "eal_converse_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "status" : "UP",
+    "diahora" : "68d 18h"
+}
+
+/* 75 */
+{
+    "_id" : ObjectId("5d8ce9b78efa15b6d2fc011b"),
+    "instancia" : "onl2-sp",
+    "servico" : "eal_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68,
+    "status" : "UP",
+    "diahora" : "68d 18h"
+}
+
+/* 76 */
+{
+    "_id" : ObjectId("5d8ce9b78efa15b6d2fc011f"),
+    "instancia" : "onl2-sp",
+    "servico" : "eps_server",
+    "diahora" : "68d 18h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 68
+}
+
+/* 77 */
+{
+    "_id" : ObjectId("5d8ce9b88efa15b6d2fc0123"),
+    "instancia" : "onl2-sp",
+    "servico" : "fws_server.py",
+    "status" : "UP",
+    "uptime" : 36,
+    "diahora" : "36d 2h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 78 */
+{
+    "_id" : ObjectId("5d8ce9b88efa15b6d2fc0127"),
+    "instancia" : "onl2-sp",
+    "servico" : "res_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "68d 18h",
+    "status" : "UP",
+    "uptime" : 68
+}
+
+/* 79 */
+{
+    "_id" : ObjectId("5d8ce9b98efa15b6d2fc012d"),
+    "instancia" : "onl2-sp",
+    "servico" : "seq_file_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "68d 18h",
+    "uptime" : 68,
+    "status" : "UP"
+}
+
+/* 80 */
+{
+    "_id" : ObjectId("5d8ce9ba8efa15b6d2fc0131"),
+    "instancia" : "onl2-sp",
+    "servico" : "soap_rpc_server",
+    "status" : "UP",
+    "diahora" : "36d 2h",
+    "uptime" : 36,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 81 */
+{
+    "_id" : ObjectId("5d8ce9bb8efa15b6d2fc0138"),
+    "instancia" : "onl2-sp",
+    "servico" : "uio_file_serv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "68d 18h",
+    "uptime" : 68
+}
+
+/* 82 */
+{
+    "_id" : ObjectId("5d8ce9bc8efa15b6d2fc013c"),
+    "instancia" : "onl2-sp",
+    "servico" : "uio_maint_log_srv",
+    "uptime" : 68,
+    "diahora" : "68d 18h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 83 */
+{
+    "_id" : ObjectId("5d8ce9c78efa15b6d2fc0144"),
+    "instancia" : "bat1",
+    "servico" : "disk_mgmt_monitor",
+    "uptime" : 221,
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 84 */
+{
+    "_id" : ObjectId("5d8ce9c88efa15b6d2fc0149"),
+    "instancia" : "bat1",
+    "servico" : "task_manager",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "diahora" : "221d 12h",
+    "status" : "UP"
+}
+
+/* 85 */
+{
+    "_id" : ObjectId("5d8ce9c88efa15b6d2fc014d"),
+    "instancia" : "bat1",
+    "servico" : "dcs_audit_server",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "221d 12h"
+}
+
+/* 86 */
+{
+    "_id" : ObjectId("5d8ce9c98efa15b6d2fc0151"),
+    "instancia" : "bat1",
+    "servico" : "dcs_dpm_server",
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 87 */
+{
+    "_id" : ObjectId("5d8ce9ca8efa15b6d2fc0155"),
+    "instancia" : "bat1",
+    "servico" : "dcs_event_mgr",
+    "uptime" : 221,
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 88 */
+{
+    "_id" : ObjectId("5d8ce9ca8efa15b6d2fc015a"),
+    "instancia" : "bat1",
+    "servico" : "dcs_evnmon_server",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "221d 12h"
+}
+
+/* 89 */
+{
+    "_id" : ObjectId("5d8ce9cb8efa15b6d2fc015e"),
+    "instancia" : "bat1",
+    "servico" : "dcs_filreg_inquire_server",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 12h"
+}
+
+/* 90 */
+{
+    "_id" : ObjectId("5d8ce9cc8efa15b6d2fc0162"),
+    "instancia" : "bat1",
+    "servico" : "dcs_mtransfer_server",
+    "status" : "UP",
+    "uptime" : 221,
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 91 */
+{
+    "_id" : ObjectId("5d8ce9cc8efa15b6d2fc0166"),
+    "instancia" : "bat1",
+    "servico" : "dcs_stats_server",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 12h",
+    "status" : "UP"
+}
+
+/* 92 */
+{
+    "_id" : ObjectId("5d8ce9cd8efa15b6d2fc016a"),
+    "instancia" : "bat1",
+    "servico" : "dcs_status_serv",
+    "status" : "UP",
+    "uptime" : 221,
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 93 */
+{
+    "_id" : ObjectId("5d8ce9ce8efa15b6d2fc0171"),
+    "instancia" : "bat1",
+    "servico" : "drd_server",
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 94 */
+{
+    "_id" : ObjectId("5d8ce9cf8efa15b6d2fc0175"),
+    "instancia" : "bat1",
+    "servico" : "eal_converse_server",
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 95 */
+{
+    "_id" : ObjectId("5d8ce9cf8efa15b6d2fc0179"),
+    "instancia" : "bat1",
+    "servico" : "eal_server",
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221
+}
+
+/* 96 */
+{
+    "_id" : ObjectId("5d8ce9d08efa15b6d2fc017d"),
+    "instancia" : "bat1",
+    "servico" : "eps_server",
+    "diahora" : "221d 12h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221
+}
+
+/* 97 */
+{
+    "_id" : ObjectId("5d8ce9d18efa15b6d2fc0181"),
+    "instancia" : "bat1",
+    "servico" : "fws_server.py",
+    "diahora" : "86d 4h",
+    "uptime" : 86,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 98 */
+{
+    "_id" : ObjectId("5d8ce9d18efa15b6d2fc0186"),
+    "instancia" : "bat1",
+    "servico" : "pra_assy_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "diahora" : "221d 12h",
+    "status" : "UP"
+}
+
+/* 99 */
+{
+    "_id" : ObjectId("5d8ce9d28efa15b6d2fc018c"),
+    "instancia" : "bat1",
+    "servico" : "pra_record_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 12h",
+    "uptime" : 221
+}
+
+/* 100 */
+{
+    "_id" : ObjectId("5d8ce9d38efa15b6d2fc0190"),
+    "instancia" : "bat1",
+    "servico" : "res_server",
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 101 */
+{
+    "_id" : ObjectId("5d8ce9d38efa15b6d2fc0194"),
+    "instancia" : "bat1",
+    "servico" : "seq_file_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 12h",
+    "uptime" : 221
+}
+
+/* 102 */
+{
+    "_id" : ObjectId("5d8ce9d48efa15b6d2fc0199"),
+    "instancia" : "bat1",
+    "servico" : "soap_rpc_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "86d 4h",
+    "uptime" : 86
+}
+
+/* 103 */
+{
+    "_id" : ObjectId("5d8ce9d58efa15b6d2fc01a0"),
+    "instancia" : "bat1",
+    "servico" : "uio_file_serv",
+    "uptime" : 221,
+    "status" : "UP",
+    "diahora" : "221d 12h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 104 */
+{
+    "_id" : ObjectId("5d8ce9d68efa15b6d2fc01a4"),
+    "instancia" : "bat1",
+    "servico" : "uio_maint_log_srv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "status" : "UP",
+    "diahora" : "221d 12h"
+}
+
+/* 105 */
+{
+    "_id" : ObjectId("5d8ce9e28efa15b6d2fc01ac"),
+    "instancia" : "bat2",
+    "servico" : "disk_mgmt_monitor",
+    "status" : "UP",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h"
+}
+
+/* 106 */
+{
+    "_id" : ObjectId("5d8ce9e28efa15b6d2fc01b0"),
+    "instancia" : "bat2",
+    "servico" : "task_manager",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "status" : "UP",
+    "diahora" : "221d 11h"
+}
+
+/* 107 */
+{
+    "_id" : ObjectId("5d8ce9e38efa15b6d2fc01b4"),
+    "instancia" : "bat2",
+    "servico" : "dcs_audit_server",
+    "status" : "UP",
+    "diahora" : "221d 11h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221
+}
+
+/* 108 */
+{
+    "_id" : ObjectId("5d8ce9e48efa15b6d2fc01b8"),
+    "instancia" : "bat2",
+    "servico" : "dcs_dpm_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h",
+    "uptime" : 221
+}
+
+/* 109 */
+{
+    "_id" : ObjectId("5d8ce9e48efa15b6d2fc01bc"),
+    "instancia" : "bat2",
+    "servico" : "dcs_event_mgr",
+    "status" : "UP",
+    "uptime" : 221,
+    "diahora" : "221d 11h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 110 */
+{
+    "_id" : ObjectId("5d8ce9e58efa15b6d2fc01c0"),
+    "instancia" : "bat2",
+    "servico" : "dcs_evnmon_server",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h",
+    "status" : "UP"
+}
+
+/* 111 */
+{
+    "_id" : ObjectId("5d8ce9e68efa15b6d2fc01c5"),
+    "instancia" : "bat2",
+    "servico" : "dcs_filreg_inquire_server",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h"
+}
+
+/* 112 */
+{
+    "_id" : ObjectId("5d8ce9e68efa15b6d2fc01c9"),
+    "instancia" : "bat2",
+    "servico" : "dcs_mtransfer_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "diahora" : "221d 11h",
+    "status" : "UP"
+}
+
+/* 113 */
+{
+    "_id" : ObjectId("5d8ce9e78efa15b6d2fc01cd"),
+    "instancia" : "bat2",
+    "servico" : "dcs_stats_server",
+    "diahora" : "221d 11h",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 114 */
+{
+    "_id" : ObjectId("5d8ce9e78efa15b6d2fc01d1"),
+    "instancia" : "bat2",
+    "servico" : "dcs_status_serv",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h"
+}
+
+/* 115 */
+{
+    "_id" : ObjectId("5d8ce9e98efa15b6d2fc01d9"),
+    "instancia" : "bat2",
+    "servico" : "drd_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h",
+    "status" : "UP",
+    "uptime" : 221
+}
+
+/* 116 */
+{
+    "_id" : ObjectId("5d8ce9e98efa15b6d2fc01dd"),
+    "instancia" : "bat2",
+    "servico" : "eal_converse_server",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "221d 11h"
+}
+
+/* 117 */
+{
+    "_id" : ObjectId("5d8ce9ea8efa15b6d2fc01e1"),
+    "instancia" : "bat2",
+    "servico" : "eal_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "status" : "UP",
+    "diahora" : "221d 11h"
+}
+
+/* 118 */
+{
+    "_id" : ObjectId("5d8ce9eb8efa15b6d2fc01e5"),
+    "instancia" : "bat2",
+    "servico" : "eps_server",
+    "diahora" : "221d 11h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 221,
+    "status" : "UP"
+}
+
+/* 119 */
+{
+    "_id" : ObjectId("5d8ce9eb8efa15b6d2fc01e9"),
+    "instancia" : "bat2",
+    "servico" : "fws_server.py",
+    "uptime" : 87,
+    "status" : "UP",
+    "diahora" : "87d 1h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 120 */
+{
+    "_id" : ObjectId("5d8ce9ec8efa15b6d2fc01f5"),
+    "instancia" : "bat2",
+    "servico" : "pra_assy_server",
+    "status" : "UP",
+    "uptime" : 62,
+    "diahora" : "62d 17h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 121 */
+{
+    "_id" : ObjectId("5d8ce9ed8efa15b6d2fc01f9"),
+    "instancia" : "bat2",
+    "servico" : "pra_record_server",
+    "diahora" : "62d 17h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 62,
+    "status" : "UP"
+}
+
+/* 122 */
+{
+    "_id" : ObjectId("5d8ce9ed8efa15b6d2fc01ff"),
+    "instancia" : "bat2",
+    "servico" : "res_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 221,
+    "diahora" : "221d 11h"
+}
+
+/* 123 */
+{
+    "_id" : ObjectId("5d8ce9ee8efa15b6d2fc0203"),
+    "instancia" : "bat2",
+    "servico" : "seq_file_server",
+    "status" : "UP",
+    "uptime" : 221,
+    "diahora" : "221d 11h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 124 */
+{
+    "_id" : ObjectId("5d8ce9ef8efa15b6d2fc0207"),
+    "instancia" : "bat2",
+    "servico" : "soap_rpc_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "87d 1h",
+    "uptime" : 87,
+    "status" : "UP"
+}
+
+/* 125 */
+{
+    "_id" : ObjectId("5d8ce9f08efa15b6d2fc020f"),
+    "instancia" : "bat2",
+    "servico" : "uio_file_serv",
+    "diahora" : "221d 11h",
+    "uptime" : 221,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 126 */
+{
+    "_id" : ObjectId("5d8ce9f08efa15b6d2fc0213"),
+    "instancia" : "bat2",
+    "servico" : "uio_maint_log_srv",
+    "status" : "UP",
+    "diahora" : "221d 11h",
+    "uptime" : 221,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 127 */
+{
+    "_id" : ObjectId("5d8ce9fc8efa15b6d2fc021b"),
+    "instancia" : "fixa-col",
+    "servico" : "disk_mgmt_monitor",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 128 */
+{
+    "_id" : ObjectId("5d8ce9fd8efa15b6d2fc0220"),
+    "instancia" : "fixa-col",
+    "servico" : "task_manager",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "diahora" : "173d 20h"
+}
+
+/* 129 */
+{
+    "_id" : ObjectId("5d8ce9fd8efa15b6d2fc0224"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_audit_server",
+    "status" : "UP",
+    "uptime" : 173,
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 130 */
+{
+    "_id" : ObjectId("5d8ce9fe8efa15b6d2fc0228"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_dpm_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h",
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 131 */
+{
+    "_id" : ObjectId("5d8ce9fe8efa15b6d2fc022c"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_event_mgr",
+    "status" : "UP",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h"
+}
+
+/* 132 */
+{
+    "_id" : ObjectId("5d8ce9ff8efa15b6d2fc0230"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_evnmon_server",
+    "status" : "UP",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173
+}
+
+/* 133 */
+{
+    "_id" : ObjectId("5d8cea008efa15b6d2fc0234"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_stats_server",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 134 */
+{
+    "_id" : ObjectId("5d8cea008efa15b6d2fc0238"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_status_serv",
+    "diahora" : "173d 20h",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 135 */
+{
+    "_id" : ObjectId("5d8cea018efa15b6d2fc023c"),
+    "instancia" : "fixa-col",
+    "servico" : "dcs_tape_rpc_serv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h",
+    "status" : "UP",
+    "uptime" : 173
+}
+
+/* 136 */
+{
+    "_id" : ObjectId("5d8cea028efa15b6d2fc0243"),
+    "instancia" : "fixa-col",
+    "servico" : "drd_server",
+    "uptime" : 173,
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 137 */
+{
+    "_id" : ObjectId("5d8cea038efa15b6d2fc0247"),
+    "instancia" : "fixa-col",
+    "servico" : "eal_server",
+    "uptime" : 173,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h"
+}
+
+/* 138 */
+{
+    "_id" : ObjectId("5d8cea048efa15b6d2fc024c"),
+    "instancia" : "fixa-col",
+    "servico" : "eps_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "173d 20h",
+    "uptime" : 173
+}
+
+/* 139 */
+{
+    "_id" : ObjectId("5d8cea048efa15b6d2fc0250"),
+    "instancia" : "fixa-col",
+    "servico" : "fws_server.py",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "41d 7h",
+    "status" : "UP",
+    "uptime" : 41
+}
+
+/* 140 */
+{
+    "_id" : ObjectId("5d8cea058efa15b6d2fc0254"),
+    "instancia" : "fixa-col",
+    "servico" : "pra_assy_server",
+    "status" : "UP",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h"
+}
+
+/* 141 */
+{
+    "_id" : ObjectId("5d8cea068efa15b6d2fc0258"),
+    "instancia" : "fixa-col",
+    "servico" : "pra_record_server",
+    "uptime" : 173,
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 142 */
+{
+    "_id" : ObjectId("5d8cea068efa15b6d2fc025d"),
+    "instancia" : "fixa-col",
+    "servico" : "res_server",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 143 */
+{
+    "_id" : ObjectId("5d8cea078efa15b6d2fc0261"),
+    "instancia" : "fixa-col",
+    "servico" : "seq_file_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "diahora" : "173d 20h"
+}
+
+/* 144 */
+{
+    "_id" : ObjectId("5d8cea088efa15b6d2fc0265"),
+    "instancia" : "fixa-col",
+    "servico" : "soap_rpc_server",
+    "uptime" : 10,
+    "status" : "UP",
+    "diahora" : "10d 13h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 145 */
+{
+    "_id" : ObjectId("5d8cea098efa15b6d2fc026c"),
+    "instancia" : "fixa-col",
+    "servico" : "uio_file_serv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h",
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 146 */
+{
+    "_id" : ObjectId("5d8cea098efa15b6d2fc0270"),
+    "instancia" : "fixa-col",
+    "servico" : "uio_maint_log_srv",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "diahora" : "173d 20h",
+    "status" : "UP"
+}
+
+/* 147 */
+{
+    "_id" : ObjectId("5d8cea0a8efa15b6d2fc0274"),
+    "instancia" : "fixa-col",
+    "servico" : "tsmweb",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 173
+}
+
+/* 148 */
+{
+    "_id" : ObjectId("5d8cea158efa15b6d2fc027c"),
+    "instancia" : "fixa-pro",
+    "servico" : "disk_mgmt_monitor",
+    "diahora" : "173d 20h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173
+}
+
+/* 149 */
+{
+    "_id" : ObjectId("5d8cea168efa15b6d2fc0282"),
+    "instancia" : "fixa-pro",
+    "servico" : "drd_server",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 150 */
+{
+    "_id" : ObjectId("5d8cea178efa15b6d2fc0286"),
+    "instancia" : "fixa-pro",
+    "servico" : "eal_server",
+    "status" : "UP",
+    "uptime" : 173,
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 151 */
+{
+    "_id" : ObjectId("5d8cea178efa15b6d2fc028b"),
+    "instancia" : "fixa-pro",
+    "servico" : "eps_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "173d 20h",
+    "uptime" : 173
+}
+
+/* 152 */
+{
+    "_id" : ObjectId("5d8cea188efa15b6d2fc028f"),
+    "instancia" : "fixa-pro",
+    "servico" : "fws_server.py",
+    "status" : "UP",
+    "diahora" : "37d 4h",
+    "uptime" : 37,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 153 */
+{
+    "_id" : ObjectId("5d8cea198efa15b6d2fc0293"),
+    "instancia" : "fixa-pro",
+    "servico" : "pra_assy_server",
+    "status" : "UP",
+    "diahora" : "173d 20h",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 154 */
+{
+    "_id" : ObjectId("5d8cea198efa15b6d2fc0297"),
+    "instancia" : "fixa-pro",
+    "servico" : "pra_record_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h",
+    "status" : "UP",
+    "uptime" : 173
+}
+
+/* 155 */
+{
+    "_id" : ObjectId("5d8cea1a8efa15b6d2fc029b"),
+    "instancia" : "fixa-pro",
+    "servico" : "res_server",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "173d 20h",
+    "status" : "UP"
+}
+
+/* 156 */
+{
+    "_id" : ObjectId("5d8cea1b8efa15b6d2fc02a0"),
+    "instancia" : "fixa-pro",
+    "servico" : "seq_file_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 173,
+    "diahora" : "173d 20h"
+}
+
+/* 157 */
+{
+    "_id" : ObjectId("5d8cea1b8efa15b6d2fc02a4"),
+    "instancia" : "fixa-pro",
+    "servico" : "soap_rpc_server",
+    "diahora" : "10d 12h",
+    "status" : "UP",
+    "uptime" : 10,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 158 */
+{
+    "_id" : ObjectId("5d8cea1c8efa15b6d2fc02a8"),
+    "instancia" : "fixa-pro",
+    "servico" : "task_manager",
+    "status" : "UP",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173
+}
+
+/* 159 */
+{
+    "_id" : ObjectId("5d8cea1d8efa15b6d2fc02ac"),
+    "instancia" : "fixa-pro",
+    "servico" : "uio_file_serv",
+    "diahora" : "173d 20h",
+    "uptime" : 173,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 160 */
+{
+    "_id" : ObjectId("5d8cea1d8efa15b6d2fc02b0"),
+    "instancia" : "fixa-pro",
+    "servico" : "uio_maint_log_srv",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 161 */
+{
+    "_id" : ObjectId("5d8cea1e8efa15b6d2fc02b4"),
+    "instancia" : "fixa-pro",
+    "servico" : "tsmweb",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 173
+}
+
+/* 162 */
+{
+    "_id" : ObjectId("5d8cea1e8efa15b6d2fc02b8"),
+    "instancia" : "fixa-pro",
+    "servico" : "dcs_tape_rpc_serv",
+    "diahora" : "173d 20h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 173,
+    "status" : "UP"
+}
+
+/* 163 */
+{
+    "_id" : ObjectId("5d8cea2d8efa15b6d2fc02d8"),
+    "instancia" : "itx-prep",
+    "servico" : "disk_mgmt_monitor",
+    "status" : "UP",
+    "uptime" : 10,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "10d 5h"
+}
+
+/* 164 */
+{
+    "_id" : ObjectId("5d8cea2e8efa15b6d2fc02dc"),
+    "instancia" : "itx-prep",
+    "servico" : "task_manager",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 165 */
+{
+    "_id" : ObjectId("5d8cea2e8efa15b6d2fc02e1"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_audit_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 10,
+    "diahora" : "10d 5h"
+}
+
+/* 166 */
+{
+    "_id" : ObjectId("5d8cea2f8efa15b6d2fc02e5"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_dpm_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "status" : "UP"
+}
+
+/* 167 */
+{
+    "_id" : ObjectId("5d8cea308efa15b6d2fc02e9"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_event_mgr",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "status" : "UP"
+}
+
+/* 168 */
+{
+    "_id" : ObjectId("5d8cea308efa15b6d2fc02ed"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_evnmon_server",
+    "uptime" : 10,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "10d 5h"
+}
+
+/* 169 */
+{
+    "_id" : ObjectId("5d8cea318efa15b6d2fc02f3"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_filreg_inquire_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10,
+    "diahora" : "10d 5h"
+}
+
+/* 170 */
+{
+    "_id" : ObjectId("5d8cea328efa15b6d2fc02f7"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_mtransfer_server",
+    "status" : "UP",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 171 */
+{
+    "_id" : ObjectId("5d8cea328efa15b6d2fc02fb"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_stats_server",
+    "status" : "UP",
+    "diahora" : "10d 5h",
+    "uptime" : 10,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 172 */
+{
+    "_id" : ObjectId("5d8cea338efa15b6d2fc02ff"),
+    "instancia" : "itx-prep",
+    "servico" : "dcs_status_serv",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10,
+    "status" : "UP"
+}
+
+/* 173 */
+{
+    "_id" : ObjectId("5d8cea348efa15b6d2fc0306"),
+    "instancia" : "itx-prep",
+    "servico" : "drd_server",
+    "status" : "UP",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 174 */
+{
+    "_id" : ObjectId("5d8cea358efa15b6d2fc030a"),
+    "instancia" : "itx-prep",
+    "servico" : "eal_converse_server",
+    "status" : "UP",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10
+}
+
+/* 175 */
+{
+    "_id" : ObjectId("5d8cea358efa15b6d2fc030f"),
+    "instancia" : "itx-prep",
+    "servico" : "eal_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10,
+    "status" : "UP",
+    "diahora" : "10d 5h"
+}
+
+/* 176 */
+{
+    "_id" : ObjectId("5d8cea368efa15b6d2fc0313"),
+    "instancia" : "itx-prep",
+    "servico" : "eps_server",
+    "uptime" : 10,
+    "status" : "UP",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 177 */
+{
+    "_id" : ObjectId("5d8cea378efa15b6d2fc0317"),
+    "instancia" : "itx-prep",
+    "servico" : "fws_server.py",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 178 */
+{
+    "_id" : ObjectId("5d8cea378efa15b6d2fc031b"),
+    "instancia" : "itx-prep",
+    "servico" : "pra_assy_server",
+    "diahora" : "10d 5h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10
+}
+
+/* 179 */
+{
+    "_id" : ObjectId("5d8cea388efa15b6d2fc0320"),
+    "instancia" : "itx-prep",
+    "servico" : "pra_record_server",
+    "uptime" : 10,
+    "status" : "UP",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 180 */
+{
+    "_id" : ObjectId("5d8cea398efa15b6d2fc0324"),
+    "instancia" : "itx-prep",
+    "servico" : "res_server",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 181 */
+{
+    "_id" : ObjectId("5d8cea398efa15b6d2fc0328"),
+    "instancia" : "itx-prep",
+    "servico" : "seq_file_server",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 10
+}
+
+/* 182 */
+{
+    "_id" : ObjectId("5d8cea3a8efa15b6d2fc032c"),
+    "instancia" : "itx-prep",
+    "servico" : "soap_rpc_server",
+    "uptime" : 10,
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 183 */
+{
+    "_id" : ObjectId("5d8cea3b8efa15b6d2fc0333"),
+    "instancia" : "itx-prep",
+    "servico" : "uio_file_serv",
+    "status" : "UP",
+    "diahora" : "10d 5h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 10
+}
+
+/* 184 */
+{
+    "_id" : ObjectId("5d8cea3c8efa15b6d2fc0337"),
+    "instancia" : "itx-prep",
+    "servico" : "uio_maint_log_srv",
+    "status" : "UP",
+    "uptime" : 10,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "10d 5h"
+}
+
+/* 185 */
+{
+    "_id" : ObjectId("5d8cea478efa15b6d2fc033d"),
+    "instancia" : "rmg-prep",
+    "servico" : "soap_rpc_server",
+    "uptime" : 220,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "220d 4h"
+}
+
+/* 186 */
+{
+    "_id" : ObjectId("5d8cea488efa15b6d2fc0341"),
+    "instancia" : "rmg-prep",
+    "servico" : "task_manager",
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "uptime" : 227,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 187 */
+{
+    "_id" : ObjectId("5d8cea488efa15b6d2fc0345"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_audit_server",
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 227
+}
+
+/* 188 */
+{
+    "_id" : ObjectId("5d8cea498efa15b6d2fc0349"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_dpm_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "227d 21h",
+    "uptime" : 227
+}
+
+/* 189 */
+{
+    "_id" : ObjectId("5d8cea4a8efa15b6d2fc034f"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_event_mgr",
+    "diahora" : "227d 21h",
+    "uptime" : 227,
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 190 */
+{
+    "_id" : ObjectId("5d8cea4a8efa15b6d2fc0354"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_evnmon_server",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 227
+}
+
+/* 191 */
+{
+    "_id" : ObjectId("5d8cea4b8efa15b6d2fc0358"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_filreg_inquire_server",
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 227
+}
+
+/* 192 */
+{
+    "_id" : ObjectId("5d8cea4c8efa15b6d2fc035c"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_mtransfer_server",
+    "uptime" : 227,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "227d 21h"
+}
+
+/* 193 */
+{
+    "_id" : ObjectId("5d8cea4c8efa15b6d2fc0361"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_stats_server",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 227,
+    "status" : "UP"
+}
+
+/* 194 */
+{
+    "_id" : ObjectId("5d8cea4d8efa15b6d2fc0365"),
+    "instancia" : "rmg-prep",
+    "servico" : "dcs_status_serv",
+    "diahora" : "227d 21h",
+    "status" : "UP",
+    "uptime" : 227,
+    "time" : ISODate("2019-09-26T13:37:37.000Z")
+}
+
+/* 195 */
+{
+    "_id" : ObjectId("5d8cea4e8efa15b6d2fc0369"),
+    "instancia" : "rmg-prep",
+    "servico" : "disk_mgmt_monitor",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "uptime" : 227
+}
+
+/* 196 */
+{
+    "_id" : ObjectId("5d8cea4e8efa15b6d2fc036d"),
+    "instancia" : "rmg-prep",
+    "servico" : "drd_server",
+    "status" : "UP",
+    "uptime" : 227,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "227d 21h"
+}
+
+/* 197 */
+{
+    "_id" : ObjectId("5d8cea4f8efa15b6d2fc0371"),
+    "instancia" : "rmg-prep",
+    "servico" : "eal_converse_server",
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 227
+}
+
+/* 198 */
+{
+    "_id" : ObjectId("5d8cea508efa15b6d2fc0375"),
+    "instancia" : "rmg-prep",
+    "servico" : "eal_server",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "diahora" : "227d 21h",
+    "uptime" : 227
+}
+
+/* 199 */
+{
+    "_id" : ObjectId("5d8cea508efa15b6d2fc0379"),
+    "instancia" : "rmg-prep",
+    "servico" : "eps_server",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 227
+}
+
+/* 200 */
+{
+    "_id" : ObjectId("5d8cea518efa15b6d2fc037d"),
+    "instancia" : "rmg-prep",
+    "servico" : "fws_server.py",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 220,
+    "status" : "UP",
+    "diahora" : "220d 4h"
+}
+
+/* 201 */
+{
+    "_id" : ObjectId("5d8cea518efa15b6d2fc0381"),
+    "instancia" : "rmg-prep",
+    "servico" : "pra_assy_server",
+    "uptime" : 227,
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP"
+}
+
+/* 202 */
+{
+    "_id" : ObjectId("5d8cea528efa15b6d2fc0387"),
+    "instancia" : "rmg-prep",
+    "servico" : "pra_record_server",
+    "status" : "UP",
+    "uptime" : 227,
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "diahora" : "227d 21h"
+}
+
+/* 203 */
+{
+    "_id" : ObjectId("5d8cea538efa15b6d2fc038b"),
+    "instancia" : "rmg-prep",
+    "servico" : "res_server",
+    "status" : "UP",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "uptime" : 227,
+    "diahora" : "227d 21h"
+}
+
+/* 204 */
+{
+    "_id" : ObjectId("5d8cea538efa15b6d2fc038f"),
+    "instancia" : "rmg-prep",
+    "servico" : "seq_file_server",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 227
+}
+
+/* 205 */
+{
+    "_id" : ObjectId("5d8cea558efa15b6d2fc039a"),
+    "instancia" : "rmg-prep",
+    "servico" : "uio_file_serv",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 227
+}
+
+/* 206 */
+{
+    "_id" : ObjectId("5d8cea568efa15b6d2fc039e"),
+    "instancia" : "rmg-prep",
+    "servico" : "uio_maint_log_srv",
+    "diahora" : "227d 21h",
+    "time" : ISODate("2019-09-26T13:37:37.000Z"),
+    "status" : "UP",
+    "uptime" : 227
+}
